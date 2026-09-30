@@ -1,0 +1,1601 @@
+description,category
+pizza,Food
+ordered pizza,Food
+bought pizza,Food
+paid for pizza,Food
+pizza payment,Food
+pizza purchase,Food
+pizza order,Food
+pizza transaction,Food
+pizza expense,Food
+pizza charge,Food
+pizza bill,Food
+pizza this week,Food
+pizza this month,Food
+pizza yesterday,Food
+pizza today,Food
+pizza online,Food
+pizza through UPI,Food
+pizza via UPI,Food
+pizza via card,Food
+pizza via bank transfer,Food
+monthly pizza,Food
+weekly pizza,Food
+one time pizza,Food
+regular pizza,Food
+recent pizza,Food
+pizza payment made,Food
+pizza transaction made,Food
+spent on pizza,Food
+amount spent on pizza,Food
+pizza paid,Food
+pizza received,Food
+pizza booking,Food
+pizza renewal,Food
+pizza installment,Food
+pizza fee,Food
+pizza service,Food
+pizza subscription,Food
+pizza transfer,Food
+pizza debit,Food
+burger,Food
+ordered burger,Food
+bought burger,Food
+paid for burger,Food
+burger payment,Food
+burger purchase,Food
+burger order,Food
+burger transaction,Food
+burger expense,Food
+burger charge,Food
+burger bill,Food
+burger this week,Food
+burger this month,Food
+burger yesterday,Food
+burger today,Food
+burger online,Food
+burger through UPI,Food
+burger via UPI,Food
+burger via card,Food
+burger via bank transfer,Food
+monthly burger,Food
+weekly burger,Food
+one time burger,Food
+regular burger,Food
+recent burger,Food
+burger payment made,Food
+burger transaction made,Food
+spent on burger,Food
+amount spent on burger,Food
+burger paid,Food
+burger received,Food
+burger booking,Food
+burger renewal,Food
+burger installment,Food
+burger fee,Food
+burger service,Food
+burger subscription,Food
+burger transfer,Food
+burger debit,Food
+sushi,Food
+ordered sushi,Food
+bought sushi,Food
+paid for sushi,Food
+sushi payment,Food
+sushi purchase,Food
+sushi order,Food
+sushi transaction,Food
+sushi expense,Food
+sushi charge,Food
+sushi bill,Food
+sushi this week,Food
+sushi this month,Food
+sushi yesterday,Food
+sushi today,Food
+sushi online,Food
+sushi through UPI,Food
+sushi via UPI,Food
+sushi via card,Food
+sushi via bank transfer,Food
+monthly sushi,Food
+weekly sushi,Food
+one time sushi,Food
+regular sushi,Food
+recent sushi,Food
+sushi payment made,Food
+sushi transaction made,Food
+spent on sushi,Food
+amount spent on sushi,Food
+sushi paid,Food
+sushi received,Food
+sushi booking,Food
+sushi renewal,Food
+sushi installment,Food
+sushi fee,Food
+sushi service,Food
+sushi subscription,Food
+sushi transfer,Food
+sushi debit,Food
+biryani,Food
+ordered biryani,Food
+bought biryani,Food
+paid for biryani,Food
+biryani payment,Food
+biryani purchase,Food
+biryani order,Food
+biryani transaction,Food
+biryani expense,Food
+biryani charge,Food
+biryani bill,Food
+biryani this week,Food
+biryani this month,Food
+biryani yesterday,Food
+biryani today,Food
+biryani online,Food
+biryani through UPI,Food
+biryani via UPI,Food
+biryani via card,Food
+biryani via bank transfer,Food
+monthly biryani,Food
+weekly biryani,Food
+one time biryani,Food
+regular biryani,Food
+recent biryani,Food
+biryani payment made,Food
+biryani transaction made,Food
+spent on biryani,Food
+amount spent on biryani,Food
+biryani paid,Food
+biryani received,Food
+biryani booking,Food
+biryani renewal,Food
+biryani installment,Food
+biryani fee,Food
+biryani service,Food
+biryani subscription,Food
+biryani transfer,Food
+biryani debit,Food
+pasta,Food
+ordered pasta,Food
+bought pasta,Food
+paid for pasta,Food
+pasta payment,Food
+pasta purchase,Food
+pasta order,Food
+pasta transaction,Food
+pasta expense,Food
+pasta charge,Food
+pasta bill,Food
+pasta this week,Food
+pasta this month,Food
+pasta yesterday,Food
+pasta today,Food
+pasta online,Food
+pasta through UPI,Food
+pasta via UPI,Food
+pasta via card,Food
+pasta via bank transfer,Food
+monthly pasta,Food
+weekly pasta,Food
+one time pasta,Food
+regular pasta,Food
+recent pasta,Food
+pasta payment made,Food
+pasta transaction made,Food
+spent on pasta,Food
+amount spent on pasta,Food
+pasta paid,Food
+pasta received,Food
+pasta booking,Food
+pasta renewal,Food
+pasta installment,Food
+pasta fee,Food
+pasta service,Food
+pasta subscription,Food
+pasta transfer,Food
+pasta debit,Food
+dosa,Food
+ordered dosa,Food
+bought dosa,Food
+paid for dosa,Food
+dosa payment,Food
+dosa purchase,Food
+dosa order,Food
+dosa transaction,Food
+dosa expense,Food
+dosa charge,Food
+dosa bill,Food
+dosa this week,Food
+dosa this month,Food
+dosa yesterday,Food
+dosa today,Food
+dosa online,Food
+dosa through UPI,Food
+dosa via UPI,Food
+dosa via card,Food
+dosa via bank transfer,Food
+monthly dosa,Food
+weekly dosa,Food
+one time dosa,Food
+regular dosa,Food
+recent dosa,Food
+dosa payment made,Food
+dosa transaction made,Food
+spent on dosa,Food
+amount spent on dosa,Food
+dosa paid,Food
+dosa received,Food
+dosa booking,Food
+dosa renewal,Food
+dosa installment,Food
+dosa fee,Food
+dosa service,Food
+dosa subscription,Food
+dosa transfer,Food
+dosa debit,Food
+ramen,Food
+ordered ramen,Food
+bought ramen,Food
+paid for ramen,Food
+ramen payment,Food
+ramen purchase,Food
+ramen order,Food
+ramen transaction,Food
+ramen expense,Food
+ramen charge,Food
+ramen bill,Food
+ramen this week,Food
+ramen this month,Food
+ramen yesterday,Food
+ramen today,Food
+ramen online,Food
+ramen through UPI,Food
+ramen via UPI,Food
+ramen via card,Food
+ramen via bank transfer,Food
+monthly ramen,Food
+weekly ramen,Food
+one time ramen,Food
+regular ramen,Food
+recent ramen,Food
+ramen payment made,Food
+ramen transaction made,Food
+spent on ramen,Food
+amount spent on ramen,Food
+ramen paid,Food
+ramen received,Food
+ramen booking,Food
+ramen renewal,Food
+ramen installment,Food
+ramen fee,Food
+ramen service,Food
+ramen subscription,Food
+ramen transfer,Food
+ramen debit,Food
+tacos,Food
+ordered tacos,Food
+bought tacos,Food
+paid for tacos,Food
+tacos payment,Food
+tacos purchase,Food
+tacos order,Food
+tacos transaction,Food
+tacos expense,Food
+tacos charge,Food
+tacos bill,Food
+tacos this week,Food
+tacos this month,Food
+tacos yesterday,Food
+tacos today,Food
+tacos online,Food
+tacos through UPI,Food
+tacos via UPI,Food
+tacos via card,Food
+tacos via bank transfer,Food
+monthly tacos,Food
+weekly tacos,Food
+one time tacos,Food
+regular tacos,Food
+recent tacos,Food
+tacos payment made,Food
+tacos transaction made,Food
+spent on tacos,Food
+amount spent on tacos,Food
+tacos paid,Food
+tacos received,Food
+tacos booking,Food
+tacos renewal,Food
+tacos installment,Food
+tacos fee,Food
+tacos service,Food
+tacos subscription,Food
+tacos transfer,Food
+tacos debit,Food
+shawarma,Food
+ordered shawarma,Food
+bought shawarma,Food
+paid for shawarma,Food
+shawarma payment,Food
+shawarma purchase,Food
+shawarma order,Food
+shawarma transaction,Food
+shawarma expense,Food
+shawarma charge,Food
+shawarma bill,Food
+shawarma this week,Food
+shawarma this month,Food
+shawarma yesterday,Food
+shawarma today,Food
+shawarma online,Food
+shawarma through UPI,Food
+shawarma via UPI,Food
+shawarma via card,Food
+shawarma via bank transfer,Food
+monthly shawarma,Food
+weekly shawarma,Food
+one time shawarma,Food
+regular shawarma,Food
+recent shawarma,Food
+shawarma payment made,Food
+shawarma transaction made,Food
+spent on shawarma,Food
+amount spent on shawarma,Food
+shawarma paid,Food
+shawarma received,Food
+shawarma booking,Food
+shawarma renewal,Food
+shawarma installment,Food
+shawarma fee,Food
+shawarma service,Food
+shawarma subscription,Food
+shawarma transfer,Food
+shawarma debit,Food
+restaurant dinner,Food
+ordered restaurant dinner,Food
+bought restaurant dinner,Food
+paid for restaurant dinner,Food
+restaurant dinner payment,Food
+restaurant dinner purchase,Food
+restaurant dinner order,Food
+restaurant dinner transaction,Food
+restaurant dinner expense,Food
+restaurant dinner charge,Food
+restaurant dinner bill,Food
+restaurant dinner this week,Food
+restaurant dinner this month,Food
+restaurant dinner yesterday,Food
+restaurant dinner today,Food
+restaurant dinner online,Food
+restaurant dinner through UPI,Food
+restaurant dinner via UPI,Food
+restaurant dinner via card,Food
+restaurant dinner via bank transfer,Food
+monthly restaurant dinner,Food
+weekly restaurant dinner,Food
+one time restaurant dinner,Food
+regular restaurant dinner,Food
+recent restaurant dinner,Food
+restaurant dinner payment made,Food
+restaurant dinner transaction made,Food
+spent on restaurant dinner,Food
+amount spent on restaurant dinner,Food
+restaurant dinner paid,Food
+restaurant dinner received,Food
+restaurant dinner booking,Food
+restaurant dinner renewal,Food
+restaurant dinner installment,Food
+restaurant dinner fee,Food
+restaurant dinner service,Food
+restaurant dinner subscription,Food
+restaurant dinner transfer,Food
+restaurant dinner debit,Food
+coffee,Food
+ordered coffee,Food
+bought coffee,Food
+paid for coffee,Food
+coffee payment,Food
+coffee purchase,Food
+coffee order,Food
+coffee transaction,Food
+coffee expense,Food
+coffee charge,Food
+coffee bill,Food
+coffee this week,Food
+coffee this month,Food
+coffee yesterday,Food
+coffee today,Food
+coffee online,Food
+coffee through UPI,Food
+coffee via UPI,Food
+coffee via card,Food
+coffee via bank transfer,Food
+monthly coffee,Food
+weekly coffee,Food
+one time coffee,Food
+regular coffee,Food
+recent coffee,Food
+coffee payment made,Food
+coffee transaction made,Food
+spent on coffee,Food
+amount spent on coffee,Food
+coffee paid,Food
+coffee received,Food
+coffee booking,Food
+coffee renewal,Food
+coffee installment,Food
+coffee fee,Food
+coffee service,Food
+coffee subscription,Food
+coffee transfer,Food
+coffee debit,Food
+cake,Food
+ordered cake,Food
+bought cake,Food
+paid for cake,Food
+cake payment,Food
+cake purchase,Food
+cake order,Food
+cake transaction,Food
+cake expense,Food
+cake charge,Food
+cake bill,Food
+cake this week,Food
+cake this month,Food
+cake yesterday,Food
+cake today,Food
+cake online,Food
+cake through UPI,Food
+cake via UPI,Food
+cake via card,Food
+cake via bank transfer,Food
+monthly cake,Food
+weekly cake,Food
+one time cake,Food
+regular cake,Food
+recent cake,Food
+cake payment made,Food
+cake transaction made,Food
+spent on cake,Food
+amount spent on cake,Food
+cake paid,Food
+cake received,Food
+cake booking,Food
+cake renewal,Food
+cake installment,Food
+cake fee,Food
+cake service,Food
+cake subscription,Food
+cake transfer,Food
+cake debit,Food
+ice cream,Food
+ordered ice cream,Food
+bought ice cream,Food
+paid for ice cream,Food
+ice cream payment,Food
+ice cream purchase,Food
+ice cream order,Food
+ice cream transaction,Food
+ice cream expense,Food
+ice cream charge,Food
+ice cream bill,Food
+ice cream this week,Food
+ice cream this month,Food
+ice cream yesterday,Food
+ice cream today,Food
+ice cream online,Food
+ice cream through UPI,Food
+ice cream via UPI,Food
+ice cream via card,Food
+ice cream via bank transfer,Food
+monthly ice cream,Food
+weekly ice cream,Food
+one time ice cream,Food
+regular ice cream,Food
+recent ice cream,Food
+ice cream payment made,Food
+ice cream transaction made,Food
+spent on ice cream,Food
+amount spent on ice cream,Food
+ice cream paid,Food
+ice cream received,Food
+ice cream booking,Food
+ice cream renewal,Food
+ice cream installment,Food
+ice cream fee,Food
+ice cream service,Food
+ice cream subscription,Food
+ice cream transfer,Food
+ice cream debit,Food
+fried chicken,Food
+ordered fried chicken,Food
+bought fried chicken,Food
+paid for fried chicken,Food
+fried chicken payment,Food
+fried chicken purchase,Food
+fried chicken order,Food
+fried chicken transaction,Food
+fried chicken expense,Food
+fried chicken charge,Food
+fried chicken bill,Food
+fried chicken this week,Food
+fried chicken this month,Food
+fried chicken yesterday,Food
+fried chicken today,Food
+fried chicken online,Food
+fried chicken through UPI,Food
+fried chicken via UPI,Food
+fried chicken via card,Food
+fried chicken via bank transfer,Food
+monthly fried chicken,Food
+weekly fried chicken,Food
+one time fried chicken,Food
+regular fried chicken,Food
+recent fried chicken,Food
+fried chicken payment made,Food
+fried chicken transaction made,Food
+spent on fried chicken,Food
+amount spent on fried chicken,Food
+fried chicken paid,Food
+fried chicken received,Food
+fried chicken booking,Food
+fried chicken renewal,Food
+fried chicken installment,Food
+fried chicken fee,Food
+fried chicken service,Food
+fried chicken subscription,Food
+fried chicken transfer,Food
+fried chicken debit,Food
+sandwich,Food
+ordered sandwich,Food
+bought sandwich,Food
+paid for sandwich,Food
+sandwich payment,Food
+sandwich purchase,Food
+sandwich order,Food
+sandwich transaction,Food
+sandwich expense,Food
+sandwich charge,Food
+sandwich bill,Food
+sandwich this week,Food
+sandwich this month,Food
+sandwich yesterday,Food
+sandwich today,Food
+sandwich online,Food
+sandwich through UPI,Food
+sandwich via UPI,Food
+sandwich via card,Food
+sandwich via bank transfer,Food
+monthly sandwich,Food
+weekly sandwich,Food
+one time sandwich,Food
+regular sandwich,Food
+recent sandwich,Food
+sandwich payment made,Food
+sandwich transaction made,Food
+spent on sandwich,Food
+amount spent on sandwich,Food
+sandwich paid,Food
+sandwich received,Food
+sandwich booking,Food
+sandwich renewal,Food
+sandwich installment,Food
+sandwich fee,Food
+sandwich service,Food
+sandwich subscription,Food
+sandwich transfer,Food
+sandwich debit,Food
+salad,Food
+ordered salad,Food
+bought salad,Food
+paid for salad,Food
+salad payment,Food
+salad purchase,Food
+salad order,Food
+salad transaction,Food
+salad expense,Food
+salad charge,Food
+salad bill,Food
+salad this week,Food
+salad this month,Food
+salad yesterday,Food
+salad today,Food
+salad online,Food
+salad through UPI,Food
+salad via UPI,Food
+salad via card,Food
+salad via bank transfer,Food
+monthly salad,Food
+weekly salad,Food
+one time salad,Food
+regular salad,Food
+recent salad,Food
+salad payment made,Food
+salad transaction made,Food
+spent on salad,Food
+amount spent on salad,Food
+salad paid,Food
+salad received,Food
+salad booking,Food
+salad renewal,Food
+salad installment,Food
+salad fee,Food
+salad service,Food
+salad subscription,Food
+salad transfer,Food
+salad debit,Food
+noodles,Food
+ordered noodles,Food
+bought noodles,Food
+paid for noodles,Food
+noodles payment,Food
+noodles purchase,Food
+noodles order,Food
+noodles transaction,Food
+noodles expense,Food
+noodles charge,Food
+noodles bill,Food
+noodles this week,Food
+noodles this month,Food
+noodles yesterday,Food
+noodles today,Food
+noodles online,Food
+noodles through UPI,Food
+noodles via UPI,Food
+noodles via card,Food
+noodles via bank transfer,Food
+monthly noodles,Food
+weekly noodles,Food
+one time noodles,Food
+regular noodles,Food
+recent noodles,Food
+noodles payment made,Food
+noodles transaction made,Food
+spent on noodles,Food
+amount spent on noodles,Food
+noodles paid,Food
+noodles received,Food
+noodles booking,Food
+noodles renewal,Food
+noodles installment,Food
+noodles fee,Food
+noodles service,Food
+noodles subscription,Food
+noodles transfer,Food
+noodles debit,Food
+dumplings,Food
+ordered dumplings,Food
+bought dumplings,Food
+paid for dumplings,Food
+dumplings payment,Food
+dumplings purchase,Food
+dumplings order,Food
+dumplings transaction,Food
+dumplings expense,Food
+dumplings charge,Food
+dumplings bill,Food
+dumplings this week,Food
+dumplings this month,Food
+dumplings yesterday,Food
+dumplings today,Food
+dumplings online,Food
+dumplings through UPI,Food
+dumplings via UPI,Food
+dumplings via card,Food
+dumplings via bank transfer,Food
+monthly dumplings,Food
+weekly dumplings,Food
+one time dumplings,Food
+regular dumplings,Food
+recent dumplings,Food
+dumplings payment made,Food
+dumplings transaction made,Food
+spent on dumplings,Food
+amount spent on dumplings,Food
+dumplings paid,Food
+dumplings received,Food
+dumplings booking,Food
+dumplings renewal,Food
+dumplings installment,Food
+dumplings fee,Food
+dumplings service,Food
+dumplings subscription,Food
+dumplings transfer,Food
+dumplings debit,Food
+curry,Food
+ordered curry,Food
+bought curry,Food
+paid for curry,Food
+curry payment,Food
+curry purchase,Food
+curry order,Food
+curry transaction,Food
+curry expense,Food
+curry charge,Food
+curry bill,Food
+curry this week,Food
+curry this month,Food
+curry yesterday,Food
+curry today,Food
+curry online,Food
+curry through UPI,Food
+curry via UPI,Food
+curry via card,Food
+curry via bank transfer,Food
+monthly curry,Food
+weekly curry,Food
+one time curry,Food
+regular curry,Food
+recent curry,Food
+curry payment made,Food
+curry transaction made,Food
+spent on curry,Food
+amount spent on curry,Food
+curry paid,Food
+curry received,Food
+curry booking,Food
+curry renewal,Food
+curry installment,Food
+curry fee,Food
+curry service,Food
+curry subscription,Food
+curry transfer,Food
+curry debit,Food
+samosa,Food
+ordered samosa,Food
+bought samosa,Food
+paid for samosa,Food
+samosa payment,Food
+samosa purchase,Food
+samosa order,Food
+samosa transaction,Food
+samosa expense,Food
+samosa charge,Food
+samosa bill,Food
+samosa this week,Food
+samosa this month,Food
+samosa yesterday,Food
+samosa today,Food
+samosa online,Food
+samosa through UPI,Food
+samosa via UPI,Food
+samosa via card,Food
+samosa via bank transfer,Food
+monthly samosa,Food
+weekly samosa,Food
+one time samosa,Food
+regular samosa,Food
+recent samosa,Food
+samosa payment made,Food
+samosa transaction made,Food
+spent on samosa,Food
+amount spent on samosa,Food
+samosa paid,Food
+samosa received,Food
+samosa booking,Food
+samosa renewal,Food
+samosa installment,Food
+samosa fee,Food
+samosa service,Food
+samosa subscription,Food
+samosa transfer,Food
+samosa debit,Food
+pancakes,Food
+ordered pancakes,Food
+bought pancakes,Food
+paid for pancakes,Food
+pancakes payment,Food
+pancakes purchase,Food
+pancakes order,Food
+pancakes transaction,Food
+pancakes expense,Food
+pancakes charge,Food
+pancakes bill,Food
+pancakes this week,Food
+pancakes this month,Food
+pancakes yesterday,Food
+pancakes today,Food
+pancakes online,Food
+pancakes through UPI,Food
+pancakes via UPI,Food
+pancakes via card,Food
+pancakes via bank transfer,Food
+monthly pancakes,Food
+weekly pancakes,Food
+one time pancakes,Food
+regular pancakes,Food
+recent pancakes,Food
+pancakes payment made,Food
+pancakes transaction made,Food
+spent on pancakes,Food
+amount spent on pancakes,Food
+pancakes paid,Food
+pancakes received,Food
+pancakes booking,Food
+pancakes renewal,Food
+pancakes installment,Food
+pancakes fee,Food
+pancakes service,Food
+pancakes subscription,Food
+pancakes transfer,Food
+pancakes debit,Food
+waffles,Food
+ordered waffles,Food
+bought waffles,Food
+paid for waffles,Food
+waffles payment,Food
+waffles purchase,Food
+waffles order,Food
+waffles transaction,Food
+waffles expense,Food
+waffles charge,Food
+waffles bill,Food
+waffles this week,Food
+waffles this month,Food
+waffles yesterday,Food
+waffles today,Food
+waffles online,Food
+waffles through UPI,Food
+waffles via UPI,Food
+waffles via card,Food
+waffles via bank transfer,Food
+monthly waffles,Food
+weekly waffles,Food
+one time waffles,Food
+regular waffles,Food
+recent waffles,Food
+waffles payment made,Food
+waffles transaction made,Food
+spent on waffles,Food
+amount spent on waffles,Food
+waffles paid,Food
+waffles received,Food
+waffles booking,Food
+waffles renewal,Food
+waffles installment,Food
+waffles fee,Food
+waffles service,Food
+waffles subscription,Food
+waffles transfer,Food
+waffles debit,Food
+burrito,Food
+ordered burrito,Food
+bought burrito,Food
+paid for burrito,Food
+burrito payment,Food
+burrito purchase,Food
+burrito order,Food
+burrito transaction,Food
+burrito expense,Food
+burrito charge,Food
+burrito bill,Food
+burrito this week,Food
+burrito this month,Food
+burrito yesterday,Food
+burrito today,Food
+burrito online,Food
+burrito through UPI,Food
+burrito via UPI,Food
+burrito via card,Food
+burrito via bank transfer,Food
+monthly burrito,Food
+weekly burrito,Food
+one time burrito,Food
+regular burrito,Food
+recent burrito,Food
+burrito payment made,Food
+burrito transaction made,Food
+spent on burrito,Food
+amount spent on burrito,Food
+burrito paid,Food
+burrito received,Food
+burrito booking,Food
+burrito renewal,Food
+burrito installment,Food
+burrito fee,Food
+burrito service,Food
+burrito subscription,Food
+burrito transfer,Food
+burrito debit,Food
+kebab,Food
+ordered kebab,Food
+bought kebab,Food
+paid for kebab,Food
+kebab payment,Food
+kebab purchase,Food
+kebab order,Food
+kebab transaction,Food
+kebab expense,Food
+kebab charge,Food
+kebab bill,Food
+kebab this week,Food
+kebab this month,Food
+kebab yesterday,Food
+kebab today,Food
+kebab online,Food
+kebab through UPI,Food
+kebab via UPI,Food
+kebab via card,Food
+kebab via bank transfer,Food
+monthly kebab,Food
+weekly kebab,Food
+one time kebab,Food
+regular kebab,Food
+recent kebab,Food
+kebab payment made,Food
+kebab transaction made,Food
+spent on kebab,Food
+amount spent on kebab,Food
+kebab paid,Food
+kebab received,Food
+kebab booking,Food
+kebab renewal,Food
+kebab installment,Food
+kebab fee,Food
+kebab service,Food
+kebab subscription,Food
+kebab transfer,Food
+kebab debit,Food
+rice and curry,Food
+ordered rice and curry,Food
+bought rice and curry,Food
+paid for rice and curry,Food
+rice and curry payment,Food
+rice and curry purchase,Food
+rice and curry order,Food
+rice and curry transaction,Food
+rice and curry expense,Food
+rice and curry charge,Food
+rice and curry bill,Food
+rice and curry this week,Food
+rice and curry this month,Food
+rice and curry yesterday,Food
+rice and curry today,Food
+rice and curry online,Food
+rice and curry through UPI,Food
+rice and curry via UPI,Food
+rice and curry via card,Food
+rice and curry via bank transfer,Food
+monthly rice and curry,Food
+weekly rice and curry,Food
+one time rice and curry,Food
+regular rice and curry,Food
+recent rice and curry,Food
+rice and curry payment made,Food
+rice and curry transaction made,Food
+spent on rice and curry,Food
+amount spent on rice and curry,Food
+rice and curry paid,Food
+rice and curry received,Food
+rice and curry booking,Food
+rice and curry renewal,Food
+rice and curry installment,Food
+rice and curry fee,Food
+rice and curry service,Food
+rice and curry subscription,Food
+rice and curry transfer,Food
+rice and curry debit,Food
+fish and chips,Food
+ordered fish and chips,Food
+bought fish and chips,Food
+paid for fish and chips,Food
+fish and chips payment,Food
+fish and chips purchase,Food
+fish and chips order,Food
+fish and chips transaction,Food
+fish and chips expense,Food
+fish and chips charge,Food
+fish and chips bill,Food
+fish and chips this week,Food
+fish and chips this month,Food
+fish and chips yesterday,Food
+fish and chips today,Food
+fish and chips online,Food
+fish and chips through UPI,Food
+fish and chips via UPI,Food
+fish and chips via card,Food
+fish and chips via bank transfer,Food
+monthly fish and chips,Food
+weekly fish and chips,Food
+one time fish and chips,Food
+regular fish and chips,Food
+recent fish and chips,Food
+fish and chips payment made,Food
+fish and chips transaction made,Food
+spent on fish and chips,Food
+amount spent on fish and chips,Food
+fish and chips paid,Food
+fish and chips received,Food
+fish and chips booking,Food
+fish and chips renewal,Food
+fish and chips installment,Food
+fish and chips fee,Food
+fish and chips service,Food
+fish and chips subscription,Food
+fish and chips transfer,Food
+fish and chips debit,Food
+steak,Food
+ordered steak,Food
+bought steak,Food
+paid for steak,Food
+steak payment,Food
+steak purchase,Food
+steak order,Food
+steak transaction,Food
+steak expense,Food
+steak charge,Food
+steak bill,Food
+steak this week,Food
+steak this month,Food
+steak yesterday,Food
+steak today,Food
+steak online,Food
+steak through UPI,Food
+steak via UPI,Food
+steak via card,Food
+steak via bank transfer,Food
+monthly steak,Food
+weekly steak,Food
+one time steak,Food
+regular steak,Food
+recent steak,Food
+steak payment made,Food
+steak transaction made,Food
+spent on steak,Food
+amount spent on steak,Food
+steak paid,Food
+steak received,Food
+steak booking,Food
+steak renewal,Food
+steak installment,Food
+steak fee,Food
+steak service,Food
+steak subscription,Food
+steak transfer,Food
+steak debit,Food
+soup,Food
+ordered soup,Food
+bought soup,Food
+paid for soup,Food
+soup payment,Food
+soup purchase,Food
+soup order,Food
+soup transaction,Food
+soup expense,Food
+soup charge,Food
+soup bill,Food
+soup this week,Food
+soup this month,Food
+soup yesterday,Food
+soup today,Food
+soup online,Food
+soup through UPI,Food
+soup via UPI,Food
+soup via card,Food
+soup via bank transfer,Food
+monthly soup,Food
+weekly soup,Food
+one time soup,Food
+regular soup,Food
+recent soup,Food
+soup payment made,Food
+soup transaction made,Food
+spent on soup,Food
+amount spent on soup,Food
+soup paid,Food
+soup received,Food
+soup booking,Food
+soup renewal,Food
+soup installment,Food
+soup fee,Food
+soup service,Food
+soup subscription,Food
+soup transfer,Food
+soup debit,Food
+fruit bowl,Food
+ordered fruit bowl,Food
+bought fruit bowl,Food
+paid for fruit bowl,Food
+fruit bowl payment,Food
+fruit bowl purchase,Food
+fruit bowl order,Food
+fruit bowl transaction,Food
+fruit bowl expense,Food
+fruit bowl charge,Food
+fruit bowl bill,Food
+fruit bowl this week,Food
+fruit bowl this month,Food
+fruit bowl yesterday,Food
+fruit bowl today,Food
+fruit bowl online,Food
+fruit bowl through UPI,Food
+fruit bowl via UPI,Food
+fruit bowl via card,Food
+fruit bowl via bank transfer,Food
+monthly fruit bowl,Food
+weekly fruit bowl,Food
+one time fruit bowl,Food
+regular fruit bowl,Food
+recent fruit bowl,Food
+fruit bowl payment made,Food
+fruit bowl transaction made,Food
+spent on fruit bowl,Food
+amount spent on fruit bowl,Food
+fruit bowl paid,Food
+fruit bowl received,Food
+fruit bowl booking,Food
+fruit bowl renewal,Food
+fruit bowl installment,Food
+fruit bowl fee,Food
+fruit bowl service,Food
+fruit bowl subscription,Food
+fruit bowl transfer,Food
+fruit bowl debit,Food
+smoothie,Food
+ordered smoothie,Food
+bought smoothie,Food
+paid for smoothie,Food
+smoothie payment,Food
+smoothie purchase,Food
+smoothie order,Food
+smoothie transaction,Food
+smoothie expense,Food
+smoothie charge,Food
+smoothie bill,Food
+smoothie this week,Food
+smoothie this month,Food
+smoothie yesterday,Food
+smoothie today,Food
+smoothie online,Food
+smoothie through UPI,Food
+smoothie via UPI,Food
+smoothie via card,Food
+smoothie via bank transfer,Food
+monthly smoothie,Food
+weekly smoothie,Food
+one time smoothie,Food
+regular smoothie,Food
+recent smoothie,Food
+smoothie payment made,Food
+smoothie transaction made,Food
+spent on smoothie,Food
+amount spent on smoothie,Food
+smoothie paid,Food
+smoothie received,Food
+smoothie booking,Food
+smoothie renewal,Food
+smoothie installment,Food
+smoothie fee,Food
+smoothie service,Food
+smoothie subscription,Food
+smoothie transfer,Food
+smoothie debit,Food
+personal pizza,Food
+pizza for personal use,Food
+personal payment for pizza,Food
+personal pizza expense,Food
+personal pizza transaction,Food
+pizza for monthly use,Food
+monthly payment for pizza,Food
+monthly pizza expense,Food
+monthly pizza transaction,Food
+pizza for weekly use,Food
+weekly payment for pizza,Food
+weekly pizza expense,Food
+weekly pizza transaction,Food
+online pizza,Food
+pizza for online use,Food
+online payment for pizza,Food
+online pizza expense,Food
+online pizza transaction,Food
+offline pizza,Food
+pizza for offline use,Food
+offline payment for pizza,Food
+offline pizza expense,Food
+offline pizza transaction,Food
+local pizza,Food
+pizza for local use,Food
+local payment for pizza,Food
+local pizza expense,Food
+local pizza transaction,Food
+pizza for regular use,Food
+regular payment for pizza,Food
+regular pizza expense,Food
+regular pizza transaction,Food
+urgent pizza,Food
+pizza for urgent use,Food
+urgent payment for pizza,Food
+urgent pizza expense,Food
+urgent pizza transaction,Food
+scheduled pizza,Food
+pizza for scheduled use,Food
+scheduled payment for pizza,Food
+scheduled pizza expense,Food
+scheduled pizza transaction,Food
+recurring pizza,Food
+pizza for recurring use,Food
+recurring payment for pizza,Food
+recurring pizza expense,Food
+recurring pizza transaction,Food
+pizza for one time use,Food
+one time payment for pizza,Food
+one time pizza expense,Food
+one time pizza transaction,Food
+small pizza,Food
+pizza for small use,Food
+small payment for pizza,Food
+small pizza expense,Food
+small pizza transaction,Food
+large pizza,Food
+pizza for large use,Food
+large payment for pizza,Food
+large pizza expense,Food
+large pizza transaction,Food
+family pizza,Food
+pizza for family use,Food
+family payment for pizza,Food
+family pizza expense,Food
+family pizza transaction,Food
+office pizza,Food
+pizza for office use,Food
+office payment for pizza,Food
+office pizza expense,Food
+office pizza transaction,Food
+college pizza,Food
+pizza for college use,Food
+college payment for pizza,Food
+college pizza expense,Food
+college pizza transaction,Food
+home pizza,Food
+pizza for home use,Food
+home payment for pizza,Food
+home pizza expense,Food
+home pizza transaction,Food
+weekend pizza,Food
+pizza for weekend use,Food
+weekend payment for pizza,Food
+weekend pizza expense,Food
+weekend pizza transaction,Food
+weekday pizza,Food
+pizza for weekday use,Food
+weekday payment for pizza,Food
+weekday pizza expense,Food
+weekday pizza transaction,Food
+annual pizza,Food
+pizza for annual use,Food
+annual payment for pizza,Food
+annual pizza expense,Food
+annual pizza transaction,Food
+personal burger,Food
+burger for personal use,Food
+personal payment for burger,Food
+personal burger expense,Food
+personal burger transaction,Food
+burger for monthly use,Food
+monthly payment for burger,Food
+monthly burger expense,Food
+monthly burger transaction,Food
+burger for weekly use,Food
+weekly payment for burger,Food
+weekly burger expense,Food
+weekly burger transaction,Food
+online burger,Food
+burger for online use,Food
+online payment for burger,Food
+online burger expense,Food
+online burger transaction,Food
+offline burger,Food
+burger for offline use,Food
+offline payment for burger,Food
+offline burger expense,Food
+offline burger transaction,Food
+local burger,Food
+burger for local use,Food
+local payment for burger,Food
+local burger expense,Food
+local burger transaction,Food
+burger for regular use,Food
+regular payment for burger,Food
+regular burger expense,Food
+regular burger transaction,Food
+urgent burger,Food
+burger for urgent use,Food
+urgent payment for burger,Food
+urgent burger expense,Food
+urgent burger transaction,Food
+scheduled burger,Food
+burger for scheduled use,Food
+scheduled payment for burger,Food
+scheduled burger expense,Food
+scheduled burger transaction,Food
+recurring burger,Food
+burger for recurring use,Food
+recurring payment for burger,Food
+recurring burger expense,Food
+recurring burger transaction,Food
+burger for one time use,Food
+one time payment for burger,Food
+one time burger expense,Food
+one time burger transaction,Food
+small burger,Food
+burger for small use,Food
+small payment for burger,Food
+small burger expense,Food
+small burger transaction,Food
+large burger,Food
+burger for large use,Food
+large payment for burger,Food
+large burger expense,Food
+large burger transaction,Food
+family burger,Food
+burger for family use,Food
+family payment for burger,Food
+family burger expense,Food
+family burger transaction,Food
+office burger,Food
+burger for office use,Food
+office payment for burger,Food
+office burger expense,Food
+office burger transaction,Food
+college burger,Food
+burger for college use,Food
+college payment for burger,Food
+college burger expense,Food
+college burger transaction,Food
+home burger,Food
+burger for home use,Food
+home payment for burger,Food
+home burger expense,Food
+home burger transaction,Food
+weekend burger,Food
+burger for weekend use,Food
+weekend payment for burger,Food
+weekend burger expense,Food
+weekend burger transaction,Food
+weekday burger,Food
+burger for weekday use,Food
+weekday payment for burger,Food
+weekday burger expense,Food
+weekday burger transaction,Food
+annual burger,Food
+burger for annual use,Food
+annual payment for burger,Food
+annual burger expense,Food
+annual burger transaction,Food
+personal sushi,Food
+sushi for personal use,Food
+personal payment for sushi,Food
+personal sushi expense,Food
+personal sushi transaction,Food
+sushi for monthly use,Food
+monthly payment for sushi,Food
+monthly sushi expense,Food
+monthly sushi transaction,Food
+sushi for weekly use,Food
+weekly payment for sushi,Food
+weekly sushi expense,Food
+weekly sushi transaction,Food
+online sushi,Food
+sushi for online use,Food
+online payment for sushi,Food
+online sushi expense,Food
+online sushi transaction,Food
+offline sushi,Food
+sushi for offline use,Food
+offline payment for sushi,Food
+offline sushi expense,Food
+offline sushi transaction,Food
+local sushi,Food
+sushi for local use,Food
+local payment for sushi,Food
+local sushi expense,Food
+local sushi transaction,Food
+sushi for regular use,Food
+regular payment for sushi,Food
+regular sushi expense,Food
+regular sushi transaction,Food
+urgent sushi,Food
+sushi for urgent use,Food
+urgent payment for sushi,Food
+urgent sushi expense,Food
+urgent sushi transaction,Food
+scheduled sushi,Food
+sushi for scheduled use,Food
+scheduled payment for sushi,Food
+scheduled sushi expense,Food
+scheduled sushi transaction,Food
+recurring sushi,Food
+sushi for recurring use,Food
+recurring payment for sushi,Food
+recurring sushi expense,Food
+recurring sushi transaction,Food
+sushi for one time use,Food
+one time payment for sushi,Food
+one time sushi expense,Food
+one time sushi transaction,Food
+small sushi,Food
+sushi for small use,Food
+small payment for sushi,Food
+small sushi expense,Food
+small sushi transaction,Food
+large sushi,Food
+sushi for large use,Food
+large payment for sushi,Food
+large sushi expense,Food
+large sushi transaction,Food
+family sushi,Food
+sushi for family use,Food
+family payment for sushi,Food
+family sushi expense,Food
+family sushi transaction,Food
+office sushi,Food
+sushi for office use,Food
+office payment for sushi,Food
+office sushi expense,Food
+office sushi transaction,Food
+college sushi,Food
+sushi for college use,Food
+college payment for sushi,Food
+college sushi expense,Food
+college sushi transaction,Food
+home sushi,Food
+sushi for home use,Food
+home payment for sushi,Food
+home sushi expense,Food
+home sushi transaction,Food
+weekend sushi,Food
+sushi for weekend use,Food
+weekend payment for sushi,Food
+weekend sushi expense,Food
+weekend sushi transaction,Food
+weekday sushi,Food
+sushi for weekday use,Food
+weekday payment for sushi,Food
+weekday sushi expense,Food
+weekday sushi transaction,Food
+annual sushi,Food
+sushi for annual use,Food
+annual payment for sushi,Food
+annual sushi expense,Food
+annual sushi transaction,Food
+personal biryani,Food
+biryani for personal use,Food
+personal payment for biryani,Food
+personal biryani expense,Food
+personal biryani transaction,Food
+biryani for monthly use,Food
+monthly payment for biryani,Food
+monthly biryani expense,Food
+monthly biryani transaction,Food
+biryani for weekly use,Food
+weekly payment for biryani,Food
+weekly biryani expense,Food
+weekly biryani transaction,Food
+online biryani,Food
+biryani for online use,Food
+online payment for biryani,Food
+online biryani expense,Food
+online biryani transaction,Food
+offline biryani,Food
+biryani for offline use,Food
+offline payment for biryani,Food
+offline biryani expense,Food
+offline biryani transaction,Food
+local biryani,Food
+biryani for local use,Food
+local payment for biryani,Food
+local biryani expense,Food
+local biryani transaction,Food
+biryani for regular use,Food
+regular payment for biryani,Food
+regular biryani expense,Food
+regular biryani transaction,Food
+urgent biryani,Food
+biryani for urgent use,Food
+urgent payment for biryani,Food
+urgent biryani expense,Food
+urgent biryani transaction,Food
+scheduled biryani,Food
+biryani for scheduled use,Food
+scheduled payment for biryani,Food
+scheduled biryani expense,Food
+scheduled biryani transaction,Food
+recurring biryani,Food
+biryani for recurring use,Food
+recurring payment for biryani,Food
+recurring biryani expense,Food
+recurring biryani transaction,Food
+biryani for one time use,Food
+one time payment for biryani,Food
+one time biryani expense,Food
+one time biryani transaction,Food
+small biryani,Food
+biryani for small use,Food
+small payment for biryani,Food
+small biryani expense,Food
+small biryani transaction,Food
+large biryani,Food
+biryani for large use,Food
+large payment for biryani,Food
+large biryani expense,Food
+large biryani transaction,Food
+family biryani,Food
+biryani for family use,Food
+family payment for biryani,Food
+family biryani expense,Food
+family biryani transaction,Food
+office biryani,Food
+biryani for office use,Food
+office payment for biryani,Food
+office biryani expense,Food
+office biryani transaction,Food
+college biryani,Food
+biryani for college use,Food
+college payment for biryani,Food
+college biryani expense,Food
+college biryani transaction,Food
+home biryani,Food
+biryani for home use,Food
+home payment for biryani,Food
+home biryani expense,Food
+home biryani transaction,Food
+weekend biryani,Food
+biryani for weekend use,Food
+weekend payment for biryani,Food
+weekend biryani expense,Food
+weekend biryani transaction,Food
+weekday biryani,Food
+biryani for weekday use,Food
+weekday payment for biryani,Food
+weekday biryani expense,Food
+weekday biryani transaction,Food
+annual biryani,Food
+biryani for annual use,Food
+annual payment for biryani,Food
+annual biryani expense,Food
+annual biryani transaction,Food
+personal pasta,Food
+pasta for personal use,Food
+personal payment for pasta,Food
+personal pasta expense,Food
+personal pasta transaction,Food
+pasta for monthly use,Food
+monthly payment for pasta,Food
+monthly pasta expense,Food
+monthly pasta transaction,Food
+pasta for weekly use,Food
+weekly payment for pasta,Food
+weekly pasta expense,Food
+weekly pasta transaction,Food
+online pasta,Food
+pasta for online use,Food
+online payment for pasta,Food
+online pasta expense,Food
+online pasta transaction,Food
+offline pasta,Food
+pasta for offline use,Food
+offline payment for pasta,Food
+offline pasta expense,Food
+offline pasta transaction,Food
+local pasta,Food
+pasta for local use,Food
+local payment for pasta,Food
+local pasta expense,Food
+local pasta transaction,Food
+pasta for regular use,Food
+regular payment for pasta,Food
+regular pasta expense,Food
+regular pasta transaction,Food
+urgent pasta,Food
+pasta for urgent use,Food
+urgent payment for pasta,Food
+urgent pasta expense,Food
+urgent pasta transaction,Food
+scheduled pasta,Food
+pasta for scheduled use,Food
+scheduled payment for pasta,Food
+scheduled pasta expense,Food
+scheduled pasta transaction,Food
+recurring pasta,Food
+pasta for recurring use,Food
+recurring payment for pasta,Food
+recurring pasta expense,Food

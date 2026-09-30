@@ -1,0 +1,7 @@
+{
+  "name": "ExpenseAI",
+  "description": "Talk. Track. Understand your spending. A conversational personal expense tracker and financial assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
